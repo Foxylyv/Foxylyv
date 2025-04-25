@@ -4,7 +4,7 @@
 
   <h1>Hi, know a little about me 👋</h1>
 
-  👩🏻‍🔬 My name is Lívia and I am a computer scientist.  <br/>
+  👩🏻‍🔬 My name is Lívia i am Brazilian and I am a computer scientist.  <br/>
   I am 20 years old and I intend to specialize in artificial intelligence.
 
   🍀 Enthusiastic and self-taught
