@@ -10,7 +10,7 @@
 
   🌐 Fullstack developer
 
-  🎲 Game creator and data analyst in my spare time
+  🎲 Data analyst in my spare time
 
   <br><br>
 
