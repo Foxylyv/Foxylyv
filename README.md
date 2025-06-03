@@ -3,9 +3,8 @@
   
   <img align="right" alt="gif" height="220" style="border-radius:20px " src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3IyNGpkcXJ1d3MzbzE4OXQ2cjA2NGJmYXUyNW1xaG9tNWc1a3h3NCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/TO5meWLySRoZg0GX99/giphy.gif">
   
-  👩🏻‍🔬 My name is Lívia and I am a computer scientist.  <br/>
-  I am 20 years old and I intend to specialize in artificial intelligence.
-
+  👩🏻‍🔬 Hi! I am a computer scientist. I am 20 years old and I intend to specialize in artificial intelligence.
+  
   🍀 Enthusiastic and self-taught
 
   🌐 Fullstack developer
