@@ -1,8 +1,8 @@
   <h1>Hi, know a little about me 👋</h1>
 <div style="display: inline_block"><br>
   
-  <img align="right" alt="gif" height="220" style="border-radius:20px " src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3IyNGpkcXJ1d3MzbzE4OXQ2cjA2NGJmYXUyNW1xaG9tNWc1a3h3NCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/TO5meWLySRoZg0GX99/giphy.gif">
-  
+  <img align="right" alt="gif" height="220" style="border-radius:20px "
+  src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmx4Z2d1NHZrZWowdnd4Y3djd3FjcWdhbzE2c2JzcHk2dHVra2hjNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0ExsgrTuACbtPaqQ/giphy.gif">
   👩🏻‍🔬 Hi! I am a computer scientist. I am 20 years old and I intend to specialize in artificial intelligence.
   
   🍀 Enthusiastic and self-taught
