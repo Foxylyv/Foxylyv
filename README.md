@@ -1,4 +1,4 @@
-  <h1>Hi, know a little about me 👋</h1>
+  <h1>Hi, 👋</h1>
 <div style="display: inline_block"><br>
   
   <img align="right" alt="gif" height="220" style="border-radius:20px "
