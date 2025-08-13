@@ -3,13 +3,11 @@
   
   <img align="right" alt="gif" height="220" style="border-radius:20px "
   src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmx4Z2d1NHZrZWowdnd4Y3djd3FjcWdhbzE2c2JzcHk2dHVra2hjNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0ExsgrTuACbtPaqQ/giphy.gif">
-  👩🏻‍🔬 Hi! I am a computer scientist. I am 20 years old and I intend to specialize in artificial intelligence.
+
   
   🍀 Enthusiastic and self-taught
 
   🌐 Fullstack developer
-
-  🎲 Data analyst in my spare time
 
   <br><br>
 
