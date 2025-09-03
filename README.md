@@ -1,7 +1,7 @@
   <h1></h1>
 <div style="display: inline_block"><br>
   
-  <img align="right" alt="gif" height="220" style="border-radius:20px "
+  <img align="right" alt="gif" height="200" style="border-radius:20px "
   src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDByNjR1cXF1b2RpNHdhcjF4NDkzNnM2bmR1dGdxODd3aDY3YzR4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bLE4GPXO5CIBW/giphy.gif">
 
   
