@@ -4,7 +4,7 @@
 
 **Desenvolvedora Full Stack Júnior · Landing Pages · Game Dev**
 
-Todas as minhas experiências eu busquei por conta própria: conquistei clientes, entreguei projetos em produção e estou criando um jogo autoral. Uso inteligência artificial no dia a dia para acelerar o desenvolvimento e organizar fluxos de trabalho.
+Todas as minhas experiências eu busquei por conta própria: conquistei clientes, entreguei projetos em produção e também desenvolvo jogos. Uso inteligência artificial no dia a dia para acelerar o desenvolvimento e organizar fluxos de trabalho.
 
 🌐 **[Meu portfólio](https://foxylyv.github.io/portfolio/)** · 💼 [LinkedIn](https://www.linkedin.com/in/livia-souza-dev01001/) · ✉️ liviasouza311@gmail.com
 
@@ -30,18 +30,11 @@ Página de captação de clientes com formulário de cotação que abre direto n
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" colspan="2">
 <a href="https://foxylyv.github.io/portfolio/"><img src="https://raw.githubusercontent.com/Foxylyv/portfolio/main/screenshots/inicio.png"></a>
 <h3>Meu portfólio</h3>
-Meus projetos, fotos do jogo e artes digitais.<br><br>
+Meus projetos, jogos e artes digitais.<br><br>
 ▶ <a href="https://foxylyv.github.io/portfolio/"><b>Abrir o portfólio</b></a> · <a href="https://github.com/Foxylyv/portfolio">código</a>
-</td>
-<td width="50%" valign="top">
-<a href="https://foxylyv.github.io/portfolio/#galeria"><img src="https://raw.githubusercontent.com/Foxylyv/portfolio/main/screenshots/galeria.png"></a>
-<h3>Snack Island 🪿</h3>
-Jogo autoral 3D cozy de cafeteria, do GDD à programação e arte low-poly.<br>
-<sub>Unity · C# · Blender · Krita</sub><br><br>
-▶ <a href="https://foxylyv.github.io/portfolio/#galeria"><b>Ver fotos do jogo</b></a>
 </td>
 </tr>
 </table>
