@@ -40,16 +40,59 @@ Meus projetos, jogos e artes digitais.<br>
 
 ## 🛠️ Tecnologias
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=dotnet&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat&logo=blender&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![IA](https://img.shields.io/badge/IA_no_fluxo_de_trabalho-7C5CBF?style=flat&logo=anthropic&logoColor=white)
+```mermaid
+%%{init: {"theme":"base","themeVariables":{"fontSize":"18px","fontFamily":"Segoe UI, sans-serif","lineColor":"#C78CAA","primaryTextColor":"#ffffff"}}}%%
+graph LR
+  L(("🌸 Lívia"))
+
+  L --- BE["⚙️ Back-end"]
+  L --- FE["🎨 Front-end"]
+  L --- GD["🎮 Game Dev"]
+  L --- FT["🧰 Ferramentas"]
+
+  BE --- PY["Python"]
+  BE --- DJ["Django REST"]
+  BE --- PG["PostgreSQL"]
+
+  FE --- RE["React"]
+  FE --- JS["JavaScript"]
+  FE --- HT["HTML5 · CSS3"]
+
+  GD --- UN["Unity"]
+  GD --- CS["C#35;"]
+  GD --- BL["Blender"]
+
+  FT --- GI["Git"]
+  FT --- LI["Linux"]
+  FT --- IA["IA no fluxo de trabalho"]
+
+  classDef me fill:#C78CAA,stroke:#9E5F80,stroke-width:3px,color:#fff,font-weight:bold
+  classDef cat fill:#7C5CBF,stroke:#5B3F99,stroke-width:2px,color:#fff,font-weight:bold
+  classDef py fill:#3776AB,stroke:#3776AB,color:#fff
+  classDef dj fill:#092E20,stroke:#092E20,color:#fff
+  classDef pg fill:#4169E1,stroke:#4169E1,color:#fff
+  classDef re fill:#20232A,stroke:#61DAFB,stroke-width:2px,color:#61DAFB
+  classDef js fill:#F7DF1E,stroke:#F7DF1E,color:#000
+  classDef ht fill:#E34F26,stroke:#1572B6,stroke-width:3px,color:#fff
+  classDef un fill:#000000,stroke:#000,color:#fff
+  classDef cs fill:#512BD4,stroke:#512BD4,color:#fff
+  classDef bl fill:#E87D0D,stroke:#E87D0D,color:#fff
+  classDef gi fill:#F05032,stroke:#F05032,color:#fff
+  classDef li fill:#FCC624,stroke:#FCC624,color:#000
+  classDef ia fill:#C78CAA,stroke:#9E5F80,color:#fff
+
+  class L me
+  class BE,FE,GD,FT cat
+  class PY py
+  class DJ dj
+  class PG pg
+  class RE re
+  class JS js
+  class HT ht
+  class UN un
+  class CS cs
+  class BL bl
+  class GI gi
+  class LI li
+  class IA ia
+```
