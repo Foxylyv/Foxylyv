@@ -12,29 +12,28 @@ Todas as minhas experiências eu busquei por conta própria: conquistei clientes
 
 ## ✨ Projetos em destaque
 
-<table>
+<table align="center">
 <tr>
-<td width="50%" valign="top">
-<a href="https://foxylyv.github.io/sistema-estoque-encomendas/"><img src="https://raw.githubusercontent.com/Foxylyv/sistema-estoque-encomendas/main/screenshots/painel.png"></a>
-<h3>Sistema de Estoque e Encomendas</h3>
-Rede de cafeterias com 3 lojas + fábrica, entregue em produção. Estoque por unidade, perfis de acesso e quadro de encomendas da fábrica.<br>
-<sub>Django REST · JWT · React · Vite</sub><br><br>
-▶ <a href="https://foxylyv.github.io/sistema-estoque-encomendas/"><b>Abrir a demonstração</b></a> · <a href="https://github.com/Foxylyv/sistema-estoque-encomendas">código</a>
+<td align="center" width="33%" valign="top">
+<a href="https://foxylyv.github.io/sistema-estoque-encomendas/"><img src="img/estoque.png" width="190" alt="Sistema de estoque"></a>
+<h3>Estoque e Encomendas</h3>
+Rede de cafeterias com 3 lojas + fábrica, entregue em produção.<br>
+<sub>Django REST · JWT · React</sub><br><br>
+▶ <a href="https://foxylyv.github.io/sistema-estoque-encomendas/"><b>Demonstração</b></a> · <a href="https://github.com/Foxylyv/sistema-estoque-encomendas">código</a>
 </td>
-<td width="50%" valign="top">
-<a href="https://foxylyv.github.io/landing-page-consultora/"><img src="https://raw.githubusercontent.com/Foxylyv/landing-page-consultora/main/screenshots/landing.png"></a>
-<h3>Landing page — Consultora de Seguros</h3>
-Página de captação de clientes com formulário de cotação que abre direto no WhatsApp. Responsiva.<br>
+<td align="center" width="33%" valign="top">
+<a href="https://foxylyv.github.io/landing-page-consultora/"><img src="img/landing.png" width="190" alt="Landing page"></a>
+<h3>Landing page de Seguros</h3>
+Captação de clientes com cotação que abre direto no WhatsApp.<br>
 <sub>HTML · CSS · JavaScript</sub><br><br>
 ▶ <a href="https://foxylyv.github.io/landing-page-consultora/"><b>Abrir o site</b></a> · <a href="https://github.com/Foxylyv/landing-page-consultora">código</a>
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top" colspan="2">
-<a href="https://foxylyv.github.io/portfolio/"><img src="https://raw.githubusercontent.com/Foxylyv/portfolio/main/screenshots/inicio.png"></a>
+<td align="center" width="33%" valign="top">
+<a href="https://foxylyv.github.io/portfolio/"><img src="img/portfolio.png" width="190" alt="Portfólio"></a>
 <h3>Meu portfólio</h3>
 Meus projetos, jogos e artes digitais.<br><br>
-▶ <a href="https://foxylyv.github.io/portfolio/"><b>Abrir o portfólio</b></a> · <a href="https://github.com/Foxylyv/portfolio">código</a>
+<sub>HTML · CSS · JavaScript</sub><br><br>
+▶ <a href="https://foxylyv.github.io/portfolio/"><b>Abrir</b></a> · <a href="https://github.com/Foxylyv/portfolio">código</a>
 </td>
 </tr>
 </table>
