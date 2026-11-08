@@ -10,26 +10,12 @@ Todas as minhas experiências eu busquei por conta própria: conquistei clientes
 
 <br clear="right">
 
-## ✨ Projetos em destaque
+## ✨ Projeto em destaque
 
 <table align="center">
 <tr>
-<td align="center" width="33%" valign="top">
-<a href="https://foxylyv.github.io/sistema-estoque-encomendas/"><img src="img/estoque.png" width="190" alt="Sistema de estoque"></a>
-<h3>Estoque e Encomendas</h3>
-Rede de cafeterias com 3 lojas + fábrica, entregue em produção.<br>
-<sub>Django REST · JWT · React</sub><br><br>
-▶ <a href="https://foxylyv.github.io/sistema-estoque-encomendas/"><b>Demonstração</b></a> · <a href="https://github.com/Foxylyv/sistema-estoque-encomendas">código</a>
-</td>
-<td align="center" width="33%" valign="top">
-<a href="https://foxylyv.github.io/landing-page-consultora/"><img src="img/landing.png" width="190" alt="Landing page"></a>
-<h3>Landing page de Seguros</h3>
-Captação de clientes com cotação que abre direto no WhatsApp.<br>
-<sub>HTML · CSS · JavaScript</sub><br><br>
-▶ <a href="https://foxylyv.github.io/landing-page-consultora/"><b>Abrir o site</b></a> · <a href="https://github.com/Foxylyv/landing-page-consultora">código</a>
-</td>
-<td align="center" width="33%" valign="top">
-<a href="https://foxylyv.github.io/portfolio/"><img src="img/portfolio.png" width="190" alt="Portfólio"></a>
+<td align="center" valign="top">
+<a href="https://foxylyv.github.io/portfolio/"><img src="img/portfolio.png" width="220" alt="Portfólio"></a>
 <h3>Meu portfólio</h3>
 Meus projetos, jogos e artes digitais.<br>
 <sub>HTML · CSS · JavaScript</sub><br><br>
