@@ -4,10 +4,7 @@
 
 **Desenvolvedora Full Stack Júnior · Landing Pages · Game Dev**
 
-Estudante de Ciência da Computação (Estácio, 2027). Todas as minhas experiências eu busquei por conta
-própria: conquistei clientes, entreguei projetos em produção e estou criando um jogo autoral.
-Uso inteligência artificial no dia a dia para acelerar o desenvolvimento e organizar fluxos de trabalho,
-e estou sempre aprendendo.
+Todas as minhas experiências eu busquei por conta própria: conquistei clientes, entreguei projetos em produção e estou criando um jogo autoral. Uso inteligência artificial no dia a dia para acelerar o desenvolvimento e organizar fluxos de trabalho.
 
 🌐 **[Meu portfólio](https://foxylyv.github.io/portfolio/)** · 💼 [LinkedIn](https://www.linkedin.com/in/livia-souza-dev01001/) · ✉️ liviasouza311@gmail.com
 
