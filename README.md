@@ -1,16 +1,14 @@
-<div align="center">
-
-<img alt="gif" height="200" src="img/matrix.gif">
+<img align="right" alt="gif" height="180" style="border-radius:20px" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDByNjR1cXF1b2RpNHdhcjF4NDkzNnM2bmR1dGdxODd3aDY3YzR4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bLE4GPXO5CIBW/giphy.gif">
 
 # Oi, eu sou a Lívia 🌸
 
 **Desenvolvedora Full Stack Júnior · Landing Pages · Game Dev**
 
-Todas as minhas experiências eu busquei por conta própria: conquistei clientes, entreguei projetos em produção e também desenvolvo jogos.<br>Uso inteligência artificial no dia a dia para acelerar o desenvolvimento e organizar fluxos de trabalho.
+Todas as minhas experiências eu busquei por conta própria: conquistei clientes, entreguei projetos em produção e também desenvolvo jogos. Uso inteligência artificial no dia a dia para acelerar o desenvolvimento e organizar fluxos de trabalho.
 
 🌐 **[Meu portfólio](https://foxylyv.github.io/portfolio/)** · 💼 [LinkedIn](https://www.linkedin.com/in/livia-souza-dev01001/) · ✉️ liviasouza311@gmail.com
 
-</div>
+<br clear="right">
 
 ## ✨ Projetos em destaque
 
