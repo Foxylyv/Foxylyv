@@ -53,3 +53,6 @@ Meus projetos, jogos e artes digitais.<br>
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![IA](https://img.shields.io/badge/IA_no_fluxo_de_trabalho-7C5CBF?style=flat&logo=anthropic&logoColor=white)
+
+<br>
+<p align="center"><img alt="raposa pulando" width="420" src="img/raposa.gif"></p>
