@@ -31,7 +31,7 @@ Captação de clientes com cotação que abre direto no WhatsApp.<br>
 <td align="center" width="33%" valign="top">
 <a href="https://foxylyv.github.io/portfolio/"><img src="img/portfolio.png" width="190" alt="Portfólio"></a>
 <h3>Meu portfólio</h3>
-Meus projetos, jogos e artes digitais.<br><br>
+Meus projetos, jogos e artes digitais.<br>
 <sub>HTML · CSS · JavaScript</sub><br><br>
 ▶ <a href="https://foxylyv.github.io/portfolio/"><b>Abrir</b></a> · <a href="https://github.com/Foxylyv/portfolio">código</a>
 </td>
